@@ -1,0 +1,29 @@
+:root {
+  --bg-color: #f7f7f7;
+  --primary-color: #ffffff;
+  --button-color: #e21;
+  --color-wave: rgba(0, 0, 0, 0.2);
+  --button-color-blood: #900;
+  --svg-color: black;
+  --intro-color: #ffffff;
+  --text-color: #000000;
+  --wave-color: url(./img/onda-clara.svg);
+  --boder-color: #ffffff;
+  --background: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #181818;
+    --primary-color: #000000;
+    --button-color: #e21;
+    --color-wave: white;
+    --button-color-blood: #900;
+    --svg-color: white;
+    --intro-color: #000000;
+    --text-color: #ffffff;
+    --wave-color: url(./img/onda-escura.svg);
+    --boder-color: #000000;
+    --background: #000000;
+  }
+}
