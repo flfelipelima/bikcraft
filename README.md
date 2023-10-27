@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+<br/><br/>
+
 ## 💻 Projeto
 
 O site bikcraft tem como objetivo ofecerer em seu ecommecer bicicletas únicas e exclusivas feitas a mão.
