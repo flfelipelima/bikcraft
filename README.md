@@ -4,7 +4,7 @@ O projeto <b>bikcraft</b> projeto foi desenvolvido durante o curso de HTML e CSS
 
 <p align="center">
   <!-- STATUS DO PROJETO -->
-  <img alt="STATUS - EM ANDAMENTO" loading="lazy" src="https://img.shields.io/badge/STATUS-COMPLETADO-GREEN?style=for-the-badge" />
+  <img alt="STATUS - EM ANDAMENTO" loading="lazy" src="https://img.shields.io/badge/STATUS-ANDAMENTO-GREEN?style=for-the-badge" />
 
   <!-- CURSO -->
   <a href="https://www.origmaid.com">
